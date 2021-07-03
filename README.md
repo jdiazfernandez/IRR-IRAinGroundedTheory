@@ -5,10 +5,10 @@ This work presents a process for systematically applying Inter-rater Reliability
 To that end, we previously conducted a systematic literature review on IRR/IRA in GT studies in the field of software engineering, and subsequently applied the process in a GT study in the domain of *EdgeOps* in industry.
 
 ## A systematic literature review on IRR/IRA in GT studies in the field of software engineering
-
+[here](https://github.com/jdiazfernandez/IRR-IRAinGroundedTheory/tree/main/1-Systematic%20Literature%20Review%20on%20IRR-IRA%20in%20Grounde%20Theory%20studies)
 
 ## A GT study in the domain of *EdgeOps* in industry
-
+[here](https://github.com/jdiazfernandez/IRR-IRAinGroundedTheory/tree/main/2-Grounded%20Theory%20study%20on%20EdgeOps)
 
 
 ## Questions & Comments
