@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/380211771.svg)](https://zenodo.org/badge/latestdoi/380211771)
+
 # Applying Inter-rater Reliability and Agreement in Grounded Theory Studies in Software Engineering
 
 This work presents a process for systematically applying Inter-rater Reliability (IRR) and Inter-rater Agreement (IRA) in Gorunded Theory (GT) studies. 
